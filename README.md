@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Rajaram, a College Student from Bhubaneshwar, Odisha</h2>
+<h2 align="left">Hi!👋 I'm Rajaram, a College Student from Bhubaneshwar, Odisha</h2>
 
 <img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzVkY2NtNXN0Z3c2Mmphd2Ftc3d3ZWdxbmdib3BoeGxuNGx3ZWMweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ggK04fdPVARRtH8w7G/giphy.gif"/>
 
