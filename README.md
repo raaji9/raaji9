@@ -1,4 +1,4 @@
-# Hi, I’m Raaji 👋  
+# Hi, I’m Rajaram Parida 👋  
 
 🎓 Computer Science student  
 💻 Java & Python developer exploring systems, queues, and real-world engineering problems  
